@@ -1,0 +1,10 @@
+streamlit
+requests
+fastapi
+uvicorn
+crewAI
+crewai-tools
+PyMuPDF
+serper
+beautifulsoup4
+
